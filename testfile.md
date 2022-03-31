@@ -16,6 +16,10 @@ PNG Img.:
 
 SVG Img.:
 
-![](./oer_portal_logo_login_beta.svg)
+![](./oer_portal_logo_login_beta_path.svg)
+
+![](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/oer_portal_logo_login_beta.svg)
+
+![](./new_oer_portal_logo.svg)
 
 ![](./new_logo.svg)
