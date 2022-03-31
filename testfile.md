@@ -16,4 +16,6 @@ PNG Img.:
 
 SVG Img.:
 
-![Help](./oer_portal_logo_login_beta.svg)
+![](./oer_portal_logo_login_beta.svg)
+
+![](./new_logo.svg)
