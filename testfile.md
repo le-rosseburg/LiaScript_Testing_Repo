@@ -1,7 +1,7 @@
 <!--
 logo: ./oer_portal_logo_login_beta.svg
 
-icon: ./twillo_logo.png
+icon: ./twillo_logo.svg
 -->
 
 # Testing...
