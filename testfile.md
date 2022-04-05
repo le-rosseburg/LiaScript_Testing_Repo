@@ -14,7 +14,7 @@ PNG Img.:
 
 ### SVGs
 
-1. ("bad" svg)
+1. ("good" svg)
 
 relative path:   
 
@@ -35,9 +35,10 @@ with cdn:
 HTML:
 
 <img src="./oer_portal_logo_login_beta_path.svg" alt="html">
+
 ---
 
-2. ("good" svg)
+2. ("bad" svg)
 
 relative path:   
 
