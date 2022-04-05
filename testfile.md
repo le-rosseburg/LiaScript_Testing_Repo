@@ -1,5 +1,5 @@
 <!--
-logo: https://liascript.github.io/img/bg-showcase-1.jpg
+logo: ./oer_portal_logo_login_beta_path.svg
 
 icon: ./twillo_logo.svg
 -->
