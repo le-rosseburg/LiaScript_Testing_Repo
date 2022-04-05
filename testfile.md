@@ -14,7 +14,7 @@ PNG Img.:
 
 ### SVGs
 
-1. ("good" svg)
+1. ("bad" svg)
 
 relative path:   
 
@@ -32,9 +32,12 @@ with cdn:
 
 ![cdn](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/oer_portal_logo_login_beta.svg)
 
+HTML:
+
+<img src="./oer_portal_logo_login_beta_path.svg" alt="html">
 ---
 
-2. ("bad" svg)
+2. ("good" svg)
 
 relative path:   
 
@@ -53,6 +56,10 @@ absolute raw path:
 with cdn:     
 
 ![](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/new_oer_portal_logo.svg)
+
+HTML:
+
+<img src="./new_oer_portal_logo.svg" alt="HTML">
 
 ---
 
