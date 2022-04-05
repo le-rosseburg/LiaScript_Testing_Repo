@@ -46,7 +46,7 @@ global path:
 
 with cdn:     
 
-![](https://cdn.jsdeliver.net/gh/TorroRosso46/LiaScript_Testing_Repo/new_oer_portal_logo.svg)
+![](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/new_oer_portal_logo.svg)
 
 ---
 
@@ -62,7 +62,7 @@ global path:
 
 with cdn:     
 
-![](https://cdn.jsdeliver.net/gh/TorroRosso46/LiaScript_Testing_Repo/new_logo.svg)
+![](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/new_logo.svg)
 
 ---
 
@@ -78,4 +78,4 @@ global path:
 
 with cdn:     
 
-![](https://cdn.jsdeliver.net/gh/TorroRosso46/LiaScript_Testing_Repo/twillo_logo.svg)
+![](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/twillo_logo.svg)
