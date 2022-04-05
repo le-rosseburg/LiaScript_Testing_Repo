@@ -1,5 +1,5 @@
 <!--
-logo: ./oer_portal_logo_login_beta_path.svg
+logo: ./new_oer_portal_logo.svg
 
 icon: ./twillo_logo.svg
 -->
@@ -16,17 +16,17 @@ PNG Img.:
 
 1. ("good" svg)
 
-local path:   
+relative path:   
 
-![local](./oer_portal_logo_login_beta_path.svg)
+![relative](./oer_portal_logo_login_beta_path.svg)
 
-global path:  
+absolute path:  
 
-![global](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/oer_portal_logo_login_beta_path.svg)
+![absolute](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/oer_portal_logo_login_beta_path.svg)
 
-global path:  
+absolute raw path:  
 
-![global](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/oer_portal_logo_login_beta_path.svg)
+![abslolute](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/oer_portal_logo_login_beta_path.svg)
 
 with cdn:     
 
@@ -36,13 +36,19 @@ with cdn:
 
 2. ("bad" svg)
 
-local path:   
+relative path:   
 
 ![](./new_oer_portal_logo.svg)
 
-global path:  
+absolute path:  
 
 ![](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/new_oer_portal_logo.svg)
+
+absolute raw path:  
+
+![](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/new_oer_portal_logo.svg)
+
+![](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/master/new_oer_portal_logo.svg)
 
 with cdn:     
 
@@ -52,13 +58,17 @@ with cdn:
 
 3. ("bad" svg)
 
-local path:   
+relative path:   
 
 ![](./new_logo.svg)
 
-global path:  
+absolute path:  
 
 ![](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/new_logo.svg)
+
+absolute raw path:  
+
+![](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/new_logo.svg)
 
 with cdn:     
 
@@ -66,15 +76,19 @@ with cdn:
 
 ---
 
-3. ("bad" svg)
+4. ("bad" svg)
 
-local path:   
+relative path:   
 
 ![](./twillo_logo.svg)
 
-global path:  
+absolute path:  
 
 ![](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/twillo_logo.svg)
+
+absolute raw path:  
+
+![](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/twillo_logo.svg)
 
 with cdn:     
 
