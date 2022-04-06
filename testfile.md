@@ -1,5 +1,5 @@
 <!--
-logo: ./twillo_logo.svg
+logo: ./new_oer_portal_logo.svg
 
 icon: ./twillo_logo.svg
 -->
