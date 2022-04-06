@@ -20,13 +20,11 @@ relative path:
 
 ![relative](./oer_portal_logo_login_beta_path.svg)
 
-absolute path:  
-
-![absolute](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/oer_portal_logo_login_beta_path.svg)
-
 absolute raw path:  
 
 ![abslolute](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/oer_portal_logo_login_beta_path.svg)
+
+![abslolute](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/oer_portal_logo_login_beta_path.svg?sanatize=true)
 
 with cdn:     
 
@@ -43,10 +41,6 @@ HTML:
 relative path:   
 
 ![](./new_oer_portal_logo.svg)
-
-absolute path:  
-
-![](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/new_oer_portal_logo.svg)
 
 absolute raw path:  
 
@@ -70,10 +64,6 @@ relative path:
 
 ![](./new_logo.svg)
 
-absolute path:  
-
-![](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/new_logo.svg)
-
 absolute raw path:  
 
 ![](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/new_logo.svg)
@@ -90,10 +80,6 @@ relative path:
 
 ![](./twillo_logo.svg)
 
-absolute path:  
-
-![](https://github.com/TorroRosso46/LiaScript_Testing_Repo/blob/master/twillo_logo.svg)
-
 absolute raw path:  
 
 ![](https://raw.githubusercontent.com/TorroRosso46/LiaScript_Testing_Repo/5d2b9fc95452006d8fb8dd1effca75dd87321637/twillo_logo.svg)
@@ -101,3 +87,24 @@ absolute raw path:
 with cdn:     
 
 ![](https://cdn.jsdelivr.net/gh/TorroRosso46/LiaScript_Testing_Repo/twillo_logo.svg)
+
+---
+---
+
+5. more tests..
+
+relative path:
+
+![](./_docs/oer_portal_logo_login_beta_path.svg)
+
+![](_docs/Schriftzug_OER-Portal_Logo_Beta_weiß.jpg)
+
+![](_docs/Schriftzug_WEIß_OER-Portal_Logo_Beta_Pfade.svg)
+
+![](./_docs/convert/1.svg)
+
+![](./_docs/convert/twilllo2.svg)
+
+![](./_docs/convert/2.svg)
+
+![](./_docs/convert/3.svg)
