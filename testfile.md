@@ -113,4 +113,12 @@ relative path:
 
 ## H5P
 
-<iframe src="https://h5p.org/h5p/embed/1067028" width="1090" height="379" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Multiple Choice Test - Physik Course"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+**Multiple Choice via H5P:**
+
+<iframe src="https://h5p.org/h5p/embed/1067028" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Multiple Choice Test - Physik Course"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+**More H5P:**
+
+<iframe src="https://h5p.org/h5p/embed/1023722" width="100%" height="176" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Collapse"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/1067030" width="100%" height="335" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Input Field - Physik course"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
