@@ -12,7 +12,16 @@ script: https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js
 
 ## Else..
 
-<iframe src="http://www.falstad.com/circuit/" width="100%" height="auto" overflow="auto" frameborder="0" allowfullscreen="allowfullscreen" onload="resizeIframe(this);"></iframe>
+<iframe id="testiframe" src="http://www.falstad.com/circuit/" width="100%" height="auto" overflow="auto" frameborder="0" allowfullscreen="allowfullscreen" onload="autoResize(this)"></iframe>
+
+<script>
+let iframe = document.querySelector("#testiframe");
+
+iframe.addEventListener('load', function() {
+  iframe.style.height = iframe.contentDocument.body.scrollHeight + 'px';
+  iframe.style.width = iframe.contentDocument.body.scrollWidth + 'px';
+});
+</script>
 
 ## Pop-Ups
 
