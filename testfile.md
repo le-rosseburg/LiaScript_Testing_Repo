@@ -146,17 +146,17 @@ relative path:
 
 **Multiple Choice via H5P:**
 
-<iframe src="https://h5p.org/h5p/embed/1067028" width="100%" height="420" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Multiple Choice Test - Physik Course"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/1067028" width="100%" height="420" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Multiple Choice Test - Physik Course"></iframe>
 
 **More H5P:**
 
-<iframe src="https://h5p.org/h5p/embed/1023722" width="100%" height="200" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Collapse"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/1023722" width="100%" height="200" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Collapse"></iframe>
 
-<iframe src="https://h5p.org/h5p/embed/1067030" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Input Field - Physik course"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/1067030" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Input Field - Physik course"></iframe>
 
 ### Sizing
 
-<iframe src="https://raw.githack.com/TorroRosso46/LiaScript_DynamischeDatenstrukturen/master/docs/h5p/GLQ_compact.html?embed=true" width="649" height="759" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://raw.githack.com/TorroRosso46/LiaScript_DynamischeDatenstrukturen/master/docs/h5p/GLQ_compact.html" width="649" height="759" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 #### 2
 
@@ -164,7 +164,10 @@ relative path:
 
 #### 3
 
-<iframe src="https://raw.githack.com/TorroRosso46/LiaScript_DynamischeDatenstrukturen/master/docs/h5p/GLQ_compact.html?embed=true" width="649" height="759" overflow="hidden" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://raw.githack.com/TorroRosso46/LiaScript_DynamischeDatenstrukturen/master/docs/h5p/GLQ_compact.html" width="649" height="759" overflow="hidden" scrolling="no" frameborder="0" style="margin-bottom:50px;" allowfullscreen="allowfullscreen"></iframe>
+
+jojojo
+
 
 ## Geogebra
 
