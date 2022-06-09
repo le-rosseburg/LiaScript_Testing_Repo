@@ -3,8 +3,9 @@ logo: ./new_oer_portal_logo.svg
 
 icon: ./twillo_logo.svg
 
-script: https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js
-        /script.js
+script:   https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js
+
+import:   https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js
 
 -->
 
