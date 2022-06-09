@@ -4,9 +4,16 @@ logo: ./new_oer_portal_logo.svg
 icon: ./twillo_logo.svg
 
 import: https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js
+
+script:   /script.js
+
 -->
 
 # Testing...
+
+## Else..
+
+<iframe src="http://www.falstad.com/circuit/" width="100%" height="auto" frameborder="0" allowfullscreen="allowfullscreen" onload="resizeIframe(this);"></iframe>
 
 ## Pop-Ups
 
