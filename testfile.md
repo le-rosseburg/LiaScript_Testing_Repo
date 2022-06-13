@@ -154,6 +154,32 @@ relative path:
 
 <iframe src="https://h5p.org/h5p/embed/1067030" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Input Field - Physik course"></iframe>
 
+### Edu-Sharing
+
+**URL: H5P-Frame in neuem Tab anzegen lassen** *Funktioniert*
+
+<iframe src="https://oerbw-arkesilaos.uni-tuebingen.de/esrender/modules/cache/h5p/2021/09/27/21/23/50/a29ac359-4ae9-411b-ac96-ebe1ce556c6c_1.0.html?ESSID=l2pq9uc0gkbtp1o62rgr0n1c84&token=" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
+**URL: H5P embeded link/iframe** *Noch kein richtiges Beispiel dafür gefunden. Der iframe hier ist vom HTML Quellcode und nicht direkt vom H5P Element (embed-button)*
+
+<iframe title="Offenes Lernen, offene Wissenschaft – ein interaktiver Leitfaden für Dozierende" src="https://oerbw-arkesilaos.uni-tuebingen.de/esrender/modules/cache/h5p/2021/09/27/21/23/50/a29ac359-4ae9-411b-ac96-ebe1ce556c6c_1.0.html?ESSID=9n1bdoojl37792u6ba2tahand2&amp;token=" style="width: 100%; border: medium none; height: 746px;" allowfullscreen="allowfullscreen" allow="camera *;microphone *" scrolling="no" frameborder="0"></iframe><script src="https://oerbw-arkesilaos.uni-tuebingen.de/esrender/modules/h5p/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
+**URL: edu-sharing eintrag** *Funktioniert nicht*
+
+<iframe src="https://www.oerbw.de/edu-sharing/components/render/a29ac359-4ae9-411b-ac96-ebe1ce556c6c?query=h5p&viewType=1" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+---
+
+**URL: link ganz unten in den metadaten** *Funktioniert nicht*
+
+<iframe src="http://hdl.handle.net/10900.3/OER_XOWSTGMY" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
 ### Sizing
 
 #### 1
