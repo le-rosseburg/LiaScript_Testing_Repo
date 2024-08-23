@@ -152,7 +152,7 @@ relative path:
 
 ![teest](./KastenwagenIcon_x16_fast.png)
 
-![](./_docs/KastenwagenIcon_x16_fast.png)
+![](./_docs/KastenwagenIcon_x16_fast.svg)
 
 ---
 
