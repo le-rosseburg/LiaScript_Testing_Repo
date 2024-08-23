@@ -146,6 +146,13 @@ relative path:
 
 ![](./_docs/convert/3.svg)
 
+---
+
+![](./KastenwagenIcon_x16_fast.jpg)
+
+![](./KastenwagenIcon_x16_fast.svg)
+
+
 ## H5P
 
 **Multiple Choice via H5P:**
