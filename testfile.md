@@ -152,6 +152,7 @@ relative path:
 
 ![](./KastenwagenIcon_x16_fast.svg)
 
+---
 
 ## H5P
 
